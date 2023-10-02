@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"name": "quadro",
+			"path": "quadro"
+		},
+		{
+			"name": "config-server",
+			"path": "config-server"
+		},
+		{
+			"name": "gateway",
+			"path": "gateway"
+		},
+		{
+			"name": "discovery-server",
+			"path": "discovery-server"
+		},
+		{
+			"path": "venda/venda"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
